@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuo (Jessica) Lyu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
