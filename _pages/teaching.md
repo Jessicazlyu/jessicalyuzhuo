@@ -18,7 +18,7 @@ Transportation and Urban Economics (Erich Muehlegger). Fall 2025.
 
 World Economic History (Christopher Meissner). Winter 2025, Winter 2026. 
 
-U.S. Economics History (Christopher Meissner, Spring 2024; Santiago Perez, Winter 2023). 
+U.S. Economic History (Christopher Meissner, Spring 2024; Santiago Perez, Winter 2023). 
 
 ### Teaching Assistant (University of International Business and Economics, School of International Trade and Economics)
 
