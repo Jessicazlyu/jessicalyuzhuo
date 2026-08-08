@@ -17,23 +17,22 @@ I am interested in electricity markets and the electric power industry. My other
 
 ## Job Market Paper
 
-### "Your Job Market Paper Title"
+### Electricity Transmission Line, Land Development, and Individual Wealth
 
 **Abstract:**  
-Put your job market paper abstract here.
 
-[Paper](/files/Lyu_JMP.pdf) | [Slides](/files/Lyu_JMP_Slides.pdf)
+[Paper](/files/Lyu_JMP.pdf) 
 
-## Other Chapters in the Dissertation
+## Working Papers
 
-### "Your Second Paper Title"
+### Effects of Charging and Discharging of Battery Storage on California’s Wholesale Electricity Prices
 
-Short description or abstract.
+**Abstract:**  
 
 [Paper](/files/Paper2.pdf)
 
-### "Your Third Paper Title"
+### Your Third Paper Title
 
-Short description or abstract.
+**Abstract:**  
 
 [Paper](/files/Paper3.pdf)
