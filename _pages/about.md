@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a PhD candidate in economics at UC Davis Department of Economics. I am interested in electricity markets and the electric power industry. My research fields are energy and environmental economics, applied microeconomics, and economic history.
+Hello, I am a PhD candidate in economics at UC Davis Department of Economics. 
 
-In my job market paper, I address a timely yet timeless question: How can we build more electricity transmission lines, and how can we build them faster? I approach this question by studying the acquisition of transmission line rights-of-way, focusing on transmission lines built by the Bonneville Power Administration (BPA) from 1938 to the early 1940s in Washington State. I estimate the long-run impact of building a new transmission line on parcel value, and calculate the rates of return that could compensate for the long-run losses in parcel value. My results provide important insights for the design of electricity transmission policy. You can find my job market paper [here](/files/Lyu_JMP.pdf). 
+I am an energy economist who studies electricity market design and policy questions in the electric power industry. My research combines applied econometric methods with insights from economic history and institutional knowledge of organized electricity markets. My research fields are energy and environmental economics, applied microeconomics, and economic history.
+
+In my job market paper, I address a timely yet timeless question: How can we build more electricity transmission lines, and how can we build them faster? I approach this question by studying the acquisition of transmission line rights-of-way, focusing on transmission lines built by the Bonneville Power Administration (BPA) from 1938 to the early 1940s in Washington State. I estimate the long-run impact of building a new transmission line on parcel values and calculate the rates of return that could compensate for the resulting long-run losses in parcel values. My results provide important insights for the design of electricity transmission policy. You can find my job market paper [here](/files/Lyu_JMP.pdf). 
 
 My other two dissertation chapters study the effects of charging and discharging of battery storage on California's wholesale electricity prices, and the effects of transmission outages on regional power transfers and the implications on the adequacy of regional transfer capacity. You can find more about these projects [here](/research/).
 
