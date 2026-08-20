@@ -13,7 +13,7 @@ I am an energy economist who studies electricity markets and the electric power 
 
 In my job market paper, I address a timely yet timeless question: How can we build more electricity transmission lines, and how can we build them faster? I approach this question by studying the acquisition of transmission line rights-of-way, focusing on transmission lines built by the Bonneville Power Administration (BPA) from 1938 to the early 1940s in Washington State. I estimate the long-run impact of building a new transmission line on parcel values and calculate the rates of return that could compensate for the resulting long-run losses in parcel values. My results provide important insights for the design of electricity transmission policy. You can find my job market paper [here](/files/Lyu_JMP.pdf). 
 
-My other two dissertation chapters study the effects of charging and discharging of battery storage on California's wholesale electricity prices, and the effects of transmission outages on regional power transfers and the implications on the adequacy of regional transfer capacity. You can find more about these projects [here](/research/).
+My other two dissertation chapters study the effects of charging and discharging of battery storage on California's wholesale electricity prices, and the effects of inter-regional transmission outages on regional electricity price differences and their implications for the adequacy of regional transfer capacity. You can find more about these projects [here](/research/).
 
 I am on the 2026-2027 job market. 
 
