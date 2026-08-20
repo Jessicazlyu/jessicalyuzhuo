@@ -4,8 +4,6 @@ title: "Teaching"
 author_profile: true
 ---
 
-## Teaching Experience
-
 ### Teaching Assistant (University of California, Davis) 
 
 *Undergraduate Courses:*
