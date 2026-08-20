@@ -30,7 +30,7 @@ author:
   location         : "Davis, California"
   employer         : "University of California, Davis"
   uri              : # URL
-  #email            : "jzlyu@ucdavis.edu" 
+ # email            : #"jzlyu@ucdavis.edu" 
 
   # Academic websites
   academia         : # URL
